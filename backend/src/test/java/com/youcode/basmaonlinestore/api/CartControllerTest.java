@@ -10,4 +10,20 @@ public class CartControllerTest {
     @Test
     public void getCart() {
     }
+
+    @Test
+    public void modifyItem() {
+    }
+
+    @Test
+    public void addToCart() {
+    }
+
+    @Test
+    public void deleteItem() {
+    }
+
+    @Test
+    public void checkout() {
+    }
 }
